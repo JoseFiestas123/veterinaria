@@ -1,0 +1,21 @@
+CHAT EN VIVO:
+https://www.cliengo.com
+
+FONTAWESOME
+https://fontawesome.com
+
+CREAR LINK DE WHATSAPP
+https://crear.wa.link
+
+CARGADOR DE WEB
+https://loading.io/css/
+para activar la funcion se necesita jquery
+ <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+EFECTOS Y ANIMACIONES
+https://animate.style
+y LA LIBRERIA WOW
+ <script src="https://wowjs.uk/dist/wow.min.js"></script>
+    <script>
+    new WOW().init();
+    </script>
